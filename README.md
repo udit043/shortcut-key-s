@@ -12,3 +12,4 @@ What i am doing is i intercept what key is pressed and then matches the ASCII co
 It does not matter where you type (notepad , chat , desktop ) it just need you to press keys and application associated with those keywords will be opened by program.
 
 Video : https://youtu.be/xXnfW_pzV-c
+Blog : http://udit043.blogspot.in/2015/11/customize-shortcut-keys-using-c.html
